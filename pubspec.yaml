@@ -1,4 +1,4 @@
-name: flutter_boardview
+name: flutter_boardview_git
 description: This is a custom Flutter widget that can create a draggable BoardView or also known as a kanban. The view can be reordered with drag and drop.
 version: 0.2.1
 homepage: https://github.com/antonzk/board

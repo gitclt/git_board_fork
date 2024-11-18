@@ -2,10 +2,10 @@ library flutter_boardview;
 
 import 'dart:core';
 
-import 'package:flutter_boardview/board_list.dart';
-import 'package:flutter_boardview/boardview_controller.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_boardview_git/board_list.dart';
+import 'package:flutter_boardview_git/boardview_controller.dart';
 
 class BoardView extends StatefulWidget {
   final List<BoardList>? lists;
