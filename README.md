@@ -1,6 +1,6 @@
 [![pub package](https://img.shields.io/pub/v/boardview.svg)](https://pub.dev/packages/boardview)
 
-# Flutter_boardview
+# flutter_boardview_git
 Introducing a powerful custom widget that crafts draggable Boards reminiscent of Trello or Jira interfaces. This versatile kanban-style view empowers users to effortlessly reorder and manage items via intuitive drag-and-drop functionality. Create, rearrange, and customize columns, offering a dynamic and flexible dashboard experience within your app.
 
 # Source project
@@ -8,7 +8,7 @@ Introducing a powerful custom widget that crafts draggable Boards reminiscent of
 ``https://pub.dev/packages/boardview``
 
 ## Installation
-Just add ``` flutter_boardview ``` to the ``` pubspec.yaml ``` file.
+Just add ``` flutter_boardview_git ``` to the ``` pubspec.yaml ``` file.
 
 ## Usage Example
 

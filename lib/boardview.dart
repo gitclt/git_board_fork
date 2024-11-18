@@ -1,4 +1,4 @@
-library flutter_boardview;
+library flutter_boardview_git;
 
 import 'dart:core';
 
